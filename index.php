@@ -11,7 +11,7 @@
     <input type="radio" id="tab-1" name="tabs">
     <label for="tab-1"><div>Qr Code</div><div class="cross"></div></label>
     <div class="content">
-   <center> <img src="FQr.jpeg" alt="Qr" width="300" height="300"></center>
+   <center> <img src="Bulak.jpeg" alt="Qr" width="300" height="300"></center>
     </div>
   </div>
   </div>
